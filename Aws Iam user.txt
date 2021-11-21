@@ -1,0 +1,11 @@
+Aws Iam user
+id:     058709536133
+user:   gDabba
+pass:   LEiKanC5rnyExV7
+
+
+
+Postgress sql 
+DB name: strapi
+Master user: postgres
+pass: LEiKanC5rnyExV7
